@@ -30,5 +30,5 @@
 ![choropleth-map](Snapshots/)
 ![wordcloud-maple-leaf](Snapshots/snap_8)
 
-## Link to kaggle Notebook
+## Link to Kaggle Notebook
 Kaggle Notebook : <https://www.kaggle.com/franmore/immigration-to-canada-eda-and-visualization>
