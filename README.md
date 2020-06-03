@@ -21,14 +21,14 @@
 ![canada_immigration-dataset-extract](Snapshots/extract_ds_canada.png)
 
 ## Snapshots of the study
-![total-immigration](Snapshots/snap_1)
-![french-immigrants](Snapshots/snap_2)
-![immigration-trend-top5](Snapshots/snap_3)
-![immigration-china-india](Snapshots/snap_4)
-![immigration-top15](Snapshots/snap_5)
-![immigration-trend-top15-boxplot](Snapshots/6)
-![choropleth-map](Snapshots/)
-![wordcloud-maple-leaf](Snapshots/snap_8)
+![total-immigration](Snapshots/snap_1.png)
+![french-immigrants](Snapshots/snap_2.png)
+![immigration-trend-top5](Snapshots/snap_3.png)
+![immigration-china-india](Snapshots/snap_4.png)
+![immigration-top15](Snapshots/snap_5.png)
+![immigration-trend-top15-boxplot](Snapshots/snap_6.png)
+![choropleth-map](Snapshots/snap_7.png)
+![wordcloud-maple-leaf](Snapshots/snap_8.png)
 
 ## Link to Kaggle Notebook
 Kaggle Notebook : <https://www.kaggle.com/franmore/immigration-to-canada-eda-and-visualization>
